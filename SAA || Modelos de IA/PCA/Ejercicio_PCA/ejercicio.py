@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 
 # Importamos el dataset y creamos el dataframe con pandas
-df = pd.read_csv('/home/pablo-bruns/Clases/SAA/PCA/Ejercicio_PCA/healthcare-dataset-stroke-data.csv')
+df = pd.read_csv('/home/albaro/Documentos/SAA/SAA || Modelos de IA/PCA/Ejercicio_PCA/healthcare-dataset-stroke-data.csv')
 df = pd.DataFrame(df)
 
 # Mostramos las primeras lineas y el recuento de columnas y filas
